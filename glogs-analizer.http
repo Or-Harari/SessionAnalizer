@@ -1,0 +1,6 @@
+@glogs_analizer_HostAddress = http://localhost:5030
+
+GET {{glogs_analizer_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
